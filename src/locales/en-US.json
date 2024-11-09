@@ -1,0 +1,32 @@
+{
+  "input_order": "Inbound order",
+  "output_order": "Outbound order",
+  "allot_order": "Transfer Order",
+  "check_order": "Inventory list",
+  "on_road_stock": "Inventory in transit",
+
+  "stock_check": "Stock Check",
+  "promotions": "Promotions",
+  "inventory_report": "Retail Inventory Report",
+  "style_management": "Style Management",
+  "category_management": "Category Management",
+  "log_out": "Logout",
+  "shoes": "Shoes",
+  "bag": "Bag",
+  "bow": "ACC",
+  "style": "Style",
+  "name": "Name",
+  "chinese": "Chinese"
+
+
+
+
+
+
+
+
+
+
+
+
+}

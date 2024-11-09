@@ -1,0 +1,23 @@
+{
+  "input_order": "入库单",
+  "output_order": "出库单",
+  "allot_order": "调拨单",
+  "check_order": "盘点单",
+  "on_road_stock": "在途库存",
+  "stock_check": "库存查询",
+
+
+
+  "promotions": "促销活动",
+  "inventory_report": "零售库存报表",
+  "style_management": "款式管理",
+  "category_management": "类型管理",
+  "log_out": "退出",
+  "shoes": "鞋子",
+  "bag": "包包",
+  "bow": "蝴蝶结",
+  "style": "款式",
+  "name": "名称",
+  "chinese": "中文"
+
+}
